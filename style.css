@@ -1,5 +1,7 @@
 body {
     background-image: url("muncher.png");
+    background-repeat: repeat;
+    
 }
 
  /* {
@@ -28,9 +30,17 @@ h1.s1{
 }
 
 h2 {
-    padding-left: 500px;
+    text-align: center;
 }
-
+p {
+    text-align: center;
+    border-color: yellow;
+    border-width: 2px;
+    border-style: solid;
+}
+b.hi {
+    text-align: center;
+}
 a.fasty {
     font-size: 100px;
     color: red;
@@ -53,19 +63,20 @@ img.muncher {
     padding-left: 500px;
 }
 img.sonic {
-    padding-right: 700px; 
-    /* padding  */
+    padding-bottom: 150px;
 }
+
 img.train {
     
-    padding-right: 700px;
+    height: 200px;
+    width: 600px;
     
 }
 img.bird {
-    padding-right: 700px;
-    
-    
+    height: 200px;
+    width: 150px;
 }
+
 img.diesel {
     width: 400px;
     height: 300px;
@@ -75,21 +86,22 @@ img.uhohtrain {
     height: 200px;
 }
 img.jd {
-    width: 300px;
-    height: 200px;
+    width: 500px;
+    height: 300px;
     
 }
 
-table {
-    color: black;
-    font-size: 50px
+table.first {
+    
 }
 
 
 
-a {
-    color: black;
+a.megamind {
+    color:black;
     text-align: center;
+    font-size: 32px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 a:hover {
