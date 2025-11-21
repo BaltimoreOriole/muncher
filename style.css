@@ -4,6 +4,7 @@ body {
     
 }
 
+
  /* {
     background-color:green;
     font-size: 10px;
@@ -18,9 +19,12 @@ h1.amongus {
     font-size: 125px;
     color: orange;
     background-color: black;
+    box-shadow: 0 0 10px 10px orange;
 
 }
-
+selector {
+    cursor: url("https://www.bing.com/images/search?view=detailV2&ccid=z61eHj1T&id=928C7457D2C8BC6E74360A9F36D5F5DB95EF250C&thid=OIP.z61eHj1TbQIMxr0x_XgKSAAAAA&mediaurl=https%3a%2f%2fswdteam.com%2fimg%2fuploads%2ffastcargo99.png%3ft%3d1685210800&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.cfad5e1e3d536d020cc6bd31fd780a48%3frik%3dDCXvldv11TafCg%26pid%3dImgRaw%26r%3d0&exph=160&expw=160&q=fastcargo99&FORM=IRPRST&ck=A9DB9E5037AC38B83FF6366F7A2239EF&selectedIndex=22&itb=0") 10 10, auto;
+}
 
 h1.s1{
     color:yellow;
